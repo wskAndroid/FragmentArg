@@ -1,5 +1,6 @@
 # FragmentArg
 fragment arg 注解
+<a href='https://bintray.com/wsk/wskcs/wsk_sdk?source=watch' alt='Get automatic notifications about new "wsk_sdk" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a>
 
 实现注解自动完成Argument。通过注解在编译的时候生成FragmentBuilder，通过Builder设置Argument。在Fragment中通过ArgInjector.inject获取Argument。
 
